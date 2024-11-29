@@ -1,0 +1,5 @@
+Entrenamiento[[:space:]]y[[:space:]]resultados[[:space:]]de[[:space:]]redes[[:space:]]neuronales filter=lfs diff=lfs merge=lfs -text
+https://github.com/JuangelAcosta/Maestr-a_UAM_C.git filter=lfs diff=lfs merge=lfs -text
+Data_Nomal/Data_Original.csv filter=lfs diff=lfs merge=lfs -text
+SMOTE_DATA.csv filter=lfs diff=lfs merge=lfs -text
+Smote/Data_Original.csv filter=lfs diff=lfs merge=lfs -text
